@@ -1,8 +1,6 @@
 <div align="center">
   <a href="https://www.suneet.codes/articles/linting-formatting-setup-bun">
-    <picture>
-      <img alt="Next.js logo" src="https://res.cloudinary.com/suneet-codes/image/upload/v1738335177/suneet-codes/articles/linting-formatting-bun_eezdjg.jpg" height="300">
-    </picture>
+      <img alt="image with bun and git logo" src="https://res.cloudinary.com/suneet-codes/image/upload/v1738335177/suneet-codes/articles/linting-formatting-bun_eezdjg.jpg" height="300">
   </a>
   <h1 >Bun Projects: Linting + Formatting + Conventional Commits</h1>
 </div>
