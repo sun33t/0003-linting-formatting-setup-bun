@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+
+if bunx -v >&/dev/null
+then
+  exec < /dev/tty
+  bunx -c "gitmoji --hook $1 $2"
+else
+  exec < /dev/tty
+  gitmoji --hook $1 $2
+fi
